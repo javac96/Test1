@@ -61,7 +61,7 @@ public class Test {
 		int i=4, j=2;
 		int a =leftshift(i,j);
 		System.out.println(a);
-		System.out.println("Very effective");
+		
 		}
 	public static int leftshift(int i, int j){
 		return i<<=j;
